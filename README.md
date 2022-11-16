@@ -77,7 +77,9 @@ Inner, Left & Right Join:
 
 Create the table 'Employee' with the Fields ID , NAME , AGE and Assign AUTOINCREMENT to the field ID.
 
+Create a view from the table Employee(ID , NAME , AGE) with only name column in the view created.
 
+Create the Index for the table GUVI and drop it.
 
 
 
